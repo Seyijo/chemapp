@@ -1,0 +1,15 @@
+{
+  "name": "chemistryapp",
+  "version": "1.0.0",
+  "description": "An Educational app",
+  "main": "server.js",
+  "scripts": {
+  
+    "start": "nodemon server.js"
+  },
+  "author": "Joseph Omitogun",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
